@@ -1,0 +1,73 @@
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\SourceCode.exe.config
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\SourceCode.pdb
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\Npgsql.dll
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Buffers.dll
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Memory.dll
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Text.Json.dll
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Threading.Channels.dll
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.ValueTuple.dll
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\Npgsql.xml
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Buffers.xml
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Memory.xml
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Text.Json.xml
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Threading.Channels.xml
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\bin\Debug\System.ValueTuple.xml
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\obj\Debug\SourceCode.csprojAssemblyReference.cache
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\obj\Debug\SourceCode.exe.config
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\obj\Debug\SourceCode.Properties.Resources.resources
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\obj\Debug\SourceCode.csproj.GenerateResource.cache
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\obj\Debug\SourceCode.csproj.CoreCompileInputs.cache
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\obj\Debug\SourceCode.csproj.CopyComplete
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\obj\Debug\SourceCode.exe
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\obj\Debug\SourceCode.pdb
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\obj\Debug\SourceCode.Vista.FormInterface.resources
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\obj\Debug\SourceCode.Vista.UserCtrLogin.resources
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\obj\Debug\SourceCode.Vista.UserCtrlAdmin.resources
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\obj\Debug\SourceCode.Vista.UserCtrlSecurity.resources
+C:\Users\juanhumberto\Documents\UCA 2020\POO\POOF_00091813\SourceCode\obj\Debug\SourceCode.Vista.UserCtrPersonel.resources
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\SourceCode.exe.config
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\SourceCode.pdb
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\Npgsql.dll
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Buffers.dll
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Memory.dll
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Text.Json.dll
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Threading.Channels.dll
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.ValueTuple.dll
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\Npgsql.xml
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Buffers.xml
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Memory.xml
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Text.Json.xml
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Threading.Channels.xml
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\bin\Debug\System.ValueTuple.xml
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\obj\Debug\SourceCode.csprojAssemblyReference.cache
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\obj\Debug\SourceCode.exe.config
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\obj\Debug\SourceCode.Properties.Resources.resources
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\obj\Debug\SourceCode.Vista.FormInterface.resources
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\obj\Debug\SourceCode.Vista.UserCtrlAdmin.resources
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\obj\Debug\SourceCode.Vista.UserCtrLogin.resources
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\obj\Debug\SourceCode.Vista.UserCtrlSecurity.resources
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\obj\Debug\SourceCode.Vista.UserCtrPersonel.resources
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\obj\Debug\SourceCode.csproj.GenerateResource.cache
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\obj\Debug\SourceCode.csproj.CopyComplete
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\obj\Debug\SourceCode.exe
+C:\Users\mario\Downloads\POOF_00091813-master\POOF_00091813-master\SourceCode\obj\Debug\SourceCode.pdb
